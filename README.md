@@ -1,1 +1,1 @@
-# -k8s-dns-node
+# k8s-dns-node
